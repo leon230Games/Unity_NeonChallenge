@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeonChallenge", "NeonChallenge.csproj", "{E9C8CF60-4217-E6D2-A49C-8346A4BAE91B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeonChallenge.Plugins", "NeonChallenge.Plugins.csproj", "{C8C0B2C8-AA07-B468-8CA0-74F2FEA9CC8B}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeonChallenge.Editor", "NeonChallenge.Editor.csproj", "{59904872-0B2C-87FC-53C6-5A5D737D4D2C}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{E9C8CF60-4217-E6D2-A49C-8346A4BAE91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9C8CF60-4217-E6D2-A49C-8346A4BAE91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9C8CF60-4217-E6D2-A49C-8346A4BAE91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C0B2C8-AA07-B468-8CA0-74F2FEA9CC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C0B2C8-AA07-B468-8CA0-74F2FEA9CC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C0B2C8-AA07-B468-8CA0-74F2FEA9CC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C0B2C8-AA07-B468-8CA0-74F2FEA9CC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{59904872-0B2C-87FC-53C6-5A5D737D4D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{59904872-0B2C-87FC-53C6-5A5D737D4D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59904872-0B2C-87FC-53C6-5A5D737D4D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
