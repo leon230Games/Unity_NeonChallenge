@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: d61e2267a6ad7904caec9db15e4fb73d
+timeCreated: 1514297851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Building
+    100004: //RootNode
+    100006: Building_001
+    100008: Building_NeonFlat
+    100010: Building_NeonFlat_001
+    100012: BuildingCircle
+    100014: BuildingWindowBig
+    100016: BuildingWindowBigScreen
+    100018: Lift
+    100020: Restricted_Building
+    100022: Restricted_BuildingLamp
+    100024: Stairs
+    100026: Stairs_001
+    100028: Stairs_003
+    400000: Body
+    400002: Building
+    400004: //RootNode
+    400006: Building_001
+    400008: Building_NeonFlat
+    400010: Building_NeonFlat_001
+    400012: BuildingCircle
+    400014: BuildingWindowBig
+    400016: BuildingWindowBigScreen
+    400018: Lift
+    400020: Restricted_Building
+    400022: Restricted_BuildingLamp
+    400024: Stairs
+    400026: Stairs_001
+    400028: Stairs_003
+    2100000: BuildingSideWindowBig
+    2100002: Building
+    2100004: BuildingCocon
+    2100006: RestrictedBuilding
+    2100008: RestrictedBuildingLamp
+    2100010: Lift
+    2100012: Stairs
+    2100014: unnamed
+    2300000: Body
+    2300002: Building
+    2300004: Building_001
+    2300006: Building_NeonFlat
+    2300008: Building_NeonFlat_001
+    2300010: BuildingCircle
+    2300012: BuildingWindowBig
+    2300014: BuildingWindowBigScreen
+    2300016: Lift
+    2300018: Restricted_Building
+    2300020: Restricted_BuildingLamp
+    2300022: Stairs
+    2300024: Stairs_001
+    2300026: Stairs_003
+    3300000: Body
+    3300002: Building
+    3300004: Building_001
+    3300006: Building_NeonFlat
+    3300008: Building_NeonFlat_001
+    3300010: BuildingCircle
+    3300012: BuildingWindowBig
+    3300014: BuildingWindowBigScreen
+    3300016: Lift
+    3300018: Restricted_Building
+    3300020: Restricted_BuildingLamp
+    3300022: Stairs
+    3300024: Stairs_001
+    3300026: Stairs_003
+    4300000: BuildingWindowBig
+    4300002: BuildingWindowBigScreen
+    4300004: Building_NeonFlat_001
+    4300006: Building_NeonFlat
+    4300008: Building_001
+    4300010: Restricted_Building
+    4300012: Restricted_BuildingLamp
+    4300014: Lift
+    4300016: Stairs_003
+    4300018: Stairs_001
+    4300020: Stairs
+    4300022: Building
+    4300024: BuildingCircle
+    4300026: Body
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
