@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d61e2267a6ad7904caec9db15e4fb73d
-timeCreated: 1514297851
+timeCreated: 1514396871
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -9,82 +9,138 @@ ModelImporter:
     100002: Building
     100004: //RootNode
     100006: Building_001
-    100008: Building_NeonFlat
-    100010: Building_NeonFlat_001
-    100012: BuildingCircle
-    100014: BuildingWindowBig
-    100016: BuildingWindowBigScreen
-    100018: Lift
-    100020: Restricted_Building
-    100022: Restricted_BuildingLamp
-    100024: Stairs
-    100026: Stairs_001
-    100028: Stairs_003
+    100008: Building_002
+    100010: Building_NeonFlat
+    100012: Building_NeonFlat_001
+    100014: Building_NeonFlat_002
+    100016: BuildingBalconyGlass
+    100018: BuildingCircle
+    100020: BuildingCircleGlass
+    100022: BuildingSideStripes
+    100024: BuildingSideWindows
+    100026: BuildingWindowBig
+    100028: BuildingWindowBigScreen
+    100030: Lift
+    100032: NeonWoman_001
+    100034: Plane
+    100036: Plane_001
+    100038: Restricted_Building
+    100040: Restricted_BuildingLamp
+    100042: Stairs
+    100044: Stairs_001
+    100046: Stairs_003
     400000: Body
     400002: Building
     400004: //RootNode
     400006: Building_001
-    400008: Building_NeonFlat
-    400010: Building_NeonFlat_001
-    400012: BuildingCircle
-    400014: BuildingWindowBig
-    400016: BuildingWindowBigScreen
-    400018: Lift
-    400020: Restricted_Building
-    400022: Restricted_BuildingLamp
-    400024: Stairs
-    400026: Stairs_001
-    400028: Stairs_003
-    2100000: BuildingSideWindowBig
-    2100002: Building
-    2100004: BuildingCocon
-    2100006: RestrictedBuilding
-    2100008: RestrictedBuildingLamp
-    2100010: Lift
-    2100012: Stairs
-    2100014: unnamed
+    400008: Building_002
+    400010: Building_NeonFlat
+    400012: Building_NeonFlat_001
+    400014: Building_NeonFlat_002
+    400016: BuildingBalconyGlass
+    400018: BuildingCircle
+    400020: BuildingCircleGlass
+    400022: BuildingSideStripes
+    400024: BuildingSideWindows
+    400026: BuildingWindowBig
+    400028: BuildingWindowBigScreen
+    400030: Lift
+    400032: NeonWoman_001
+    400034: Plane
+    400036: Plane_001
+    400038: Restricted_Building
+    400040: Restricted_BuildingLamp
+    400042: Stairs
+    400044: Stairs_001
+    400046: Stairs_003
+    2100000: Pavement
+    2100002: Street
+    2100004: Building_NeonFlat_002
+    2100006: BuildingBalconyGlass
+    2100008: BuildingCircleGlass
+    2100010: NeonWoman
+    2100012: BuildingSideStripes
+    2100014: BuildingSideWindows
+    2100016: BuildingSideShapShape
+    2100018: BuildingSideWindowBig
+    2100020: Building_NeonFlat_001
+    2100022: Building
+    2100024: BuildingCocon
+    2100026: RestrictedBuilding
+    2100028: RestrictedBuildingLamp
+    2100030: Lift
+    2100032: LiftGlass
+    2100034: Stairs
+    2100036: unnamed
     2300000: Body
     2300002: Building
     2300004: Building_001
-    2300006: Building_NeonFlat
-    2300008: Building_NeonFlat_001
-    2300010: BuildingCircle
-    2300012: BuildingWindowBig
-    2300014: BuildingWindowBigScreen
-    2300016: Lift
-    2300018: Restricted_Building
-    2300020: Restricted_BuildingLamp
-    2300022: Stairs
-    2300024: Stairs_001
-    2300026: Stairs_003
+    2300006: Building_002
+    2300008: Building_NeonFlat
+    2300010: Building_NeonFlat_001
+    2300012: Building_NeonFlat_002
+    2300014: BuildingBalconyGlass
+    2300016: BuildingCircle
+    2300018: BuildingCircleGlass
+    2300020: BuildingSideStripes
+    2300022: BuildingSideWindows
+    2300024: BuildingWindowBig
+    2300026: BuildingWindowBigScreen
+    2300028: Lift
+    2300030: NeonWoman_001
+    2300032: Plane
+    2300034: Plane_001
+    2300036: Restricted_Building
+    2300038: Restricted_BuildingLamp
+    2300040: Stairs
+    2300042: Stairs_001
+    2300044: Stairs_003
     3300000: Body
     3300002: Building
     3300004: Building_001
-    3300006: Building_NeonFlat
-    3300008: Building_NeonFlat_001
-    3300010: BuildingCircle
-    3300012: BuildingWindowBig
-    3300014: BuildingWindowBigScreen
-    3300016: Lift
-    3300018: Restricted_Building
-    3300020: Restricted_BuildingLamp
-    3300022: Stairs
-    3300024: Stairs_001
-    3300026: Stairs_003
-    4300000: BuildingWindowBig
-    4300002: BuildingWindowBigScreen
-    4300004: Building_NeonFlat_001
-    4300006: Building_NeonFlat
-    4300008: Building_001
-    4300010: Restricted_Building
-    4300012: Restricted_BuildingLamp
-    4300014: Lift
-    4300016: Stairs_003
-    4300018: Stairs_001
-    4300020: Stairs
-    4300022: Building
-    4300024: BuildingCircle
-    4300026: Body
+    3300006: Building_002
+    3300008: Building_NeonFlat
+    3300010: Building_NeonFlat_001
+    3300012: Building_NeonFlat_002
+    3300014: BuildingBalconyGlass
+    3300016: BuildingCircle
+    3300018: BuildingCircleGlass
+    3300020: BuildingSideStripes
+    3300022: BuildingSideWindows
+    3300024: BuildingWindowBig
+    3300026: BuildingWindowBigScreen
+    3300028: Lift
+    3300030: NeonWoman_001
+    3300032: Plane
+    3300034: Plane_001
+    3300036: Restricted_Building
+    3300038: Restricted_BuildingLamp
+    3300040: Stairs
+    3300042: Stairs_001
+    3300044: Stairs_003
+    4300000: Plane_001
+    4300002: Plane
+    4300004: Building_NeonFlat_002
+    4300006: BuildingBalconyGlass
+    4300008: BuildingCircleGlass
+    4300010: NeonWoman_001
+    4300012: BuildingSideStripes
+    4300014: BuildingSideWindows
+    4300016: Building_002
+    4300018: BuildingWindowBig
+    4300020: BuildingWindowBigScreen
+    4300022: Building_NeonFlat_001
+    4300024: Building_NeonFlat
+    4300026: Building_001
+    4300028: Restricted_Building
+    4300030: Restricted_BuildingLamp
+    4300032: Lift
+    4300034: Stairs_003
+    4300036: Stairs_001
+    4300038: Stairs
+    4300040: Building
+    4300042: BuildingCircle
+    4300044: Body
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
