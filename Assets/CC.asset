@@ -25,7 +25,7 @@ MonoBehaviour:
         motionVectorsResolution: 24
         motionVectorsAmplitude: 64
   fog:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
       excludeSkybox: 1
   antialiasing:
@@ -69,9 +69,9 @@ MonoBehaviour:
       screenEdgeMask:
         intensity: 0.03
   depthOfField:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
-      focusDistance: 3
+      focusDistance: 4.19
       aperture: 5.6
       focalLength: 50
       useCameraFov: 0
@@ -100,10 +100,10 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 0
+        intensity: 0.03
         threshold: 1.1
-        softKnee: 0.492
-        radius: 2.9
+        softKnee: 0.673
+        radius: 3.18
         antiFlicker: 0
       lensDirt:
         texture: {fileID: 0}

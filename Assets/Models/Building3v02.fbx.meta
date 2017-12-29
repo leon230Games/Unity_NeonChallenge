@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 9834a924d6b2cc641b6dc5c3dde86d28
+timeCreated: 1514450815
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Building
+    100004: Building.001
+    100006: Building.002
+    100008: Building.NeonFlat
+    100010: Building.NeonFlat.001
+    100012: Building.NeonFlat.002
+    100014: //RootNode
+    100016: BuildingBalconyGlass
+    100018: BuildingCircle
+    100020: BuildingCircleGlass
+    100022: BuildingRail
+    100024: BuildingRoofRounfings
+    100026: BuildingSideStripes
+    100028: BuildingSideWindows
+    100030: BuildingWindowBig
+    100032: BuildingWindowBigScreen
+    100034: Cube
+    100036: Lift
+    100038: NeonWineGlass
+    100040: NeonWoman.001
+    100042: Pavement1
+    100044: Pavement1.001
+    100046: Plane
+    100048: Restricted Building
+    100050: Restricted BuildingLamp
+    100052: RoofStairs
+    100054: Stairs
+    100056: Stairs.001
+    100058: Stairs.003
+    400000: Body
+    400002: Building
+    400004: Building.001
+    400006: Building.002
+    400008: Building.NeonFlat
+    400010: Building.NeonFlat.001
+    400012: Building.NeonFlat.002
+    400014: //RootNode
+    400016: BuildingBalconyGlass
+    400018: BuildingCircle
+    400020: BuildingCircleGlass
+    400022: BuildingRail
+    400024: BuildingRoofRounfings
+    400026: BuildingSideStripes
+    400028: BuildingSideWindows
+    400030: BuildingWindowBig
+    400032: BuildingWindowBigScreen
+    400034: Cube
+    400036: Lift
+    400038: NeonWineGlass
+    400040: NeonWoman.001
+    400042: Pavement1
+    400044: Pavement1.001
+    400046: Plane
+    400048: Restricted Building
+    400050: Restricted BuildingLamp
+    400052: RoofStairs
+    400054: Stairs
+    400056: Stairs.001
+    400058: Stairs.003
+    2100000: RoofStairs
+    2100002: BuildingRoofRounfings
+    2100004: Pavement
+    2100006: NeonWineGlass
+    2100008: NeonWineGlassBubbles
+    2100010: Counter
+    2100012: BuildingRail
+    2100014: Street
+    2100016: Building.NeonFlat.002
+    2100018: BuildingBalconyGlass
+    2100020: BuildingCircleGlass
+    2100022: NeonWoman
+    2100024: BuildingSideStripes
+    2100026: BuildingSideWindows
+    2100028: BuildingSideShapShape
+    2100030: BuildingSideWindowBig
+    2100032: Building.NeonFlat.001
+    2100034: Building
+    2100036: BuildingCocon
+    2100038: RestrictedBuilding
+    2100040: RestrictedBuildingLamp
+    2100042: Lift
+    2100044: LiftGlass
+    2100046: Stairs
+    2100048: No Name
+    2300000: Body
+    2300002: Building
+    2300004: Building.001
+    2300006: Building.002
+    2300008: Building.NeonFlat
+    2300010: Building.NeonFlat.001
+    2300012: Building.NeonFlat.002
+    2300014: BuildingBalconyGlass
+    2300016: BuildingCircle
+    2300018: BuildingCircleGlass
+    2300020: BuildingRail
+    2300022: BuildingRoofRounfings
+    2300024: BuildingSideStripes
+    2300026: BuildingSideWindows
+    2300028: BuildingWindowBig
+    2300030: BuildingWindowBigScreen
+    2300032: Cube
+    2300034: Lift
+    2300036: NeonWineGlass
+    2300038: NeonWoman.001
+    2300040: Pavement1
+    2300042: Pavement1.001
+    2300044: Plane
+    2300046: Restricted Building
+    2300048: Restricted BuildingLamp
+    2300050: RoofStairs
+    2300052: Stairs
+    2300054: Stairs.001
+    2300056: Stairs.003
+    3300000: Body
+    3300002: Building
+    3300004: Building.001
+    3300006: Building.002
+    3300008: Building.NeonFlat
+    3300010: Building.NeonFlat.001
+    3300012: Building.NeonFlat.002
+    3300014: BuildingBalconyGlass
+    3300016: BuildingCircle
+    3300018: BuildingCircleGlass
+    3300020: BuildingRail
+    3300022: BuildingRoofRounfings
+    3300024: BuildingSideStripes
+    3300026: BuildingSideWindows
+    3300028: BuildingWindowBig
+    3300030: BuildingWindowBigScreen
+    3300032: Cube
+    3300034: Lift
+    3300036: NeonWineGlass
+    3300038: NeonWoman.001
+    3300040: Pavement1
+    3300042: Pavement1.001
+    3300044: Plane
+    3300046: Restricted Building
+    3300048: Restricted BuildingLamp
+    3300050: RoofStairs
+    3300052: Stairs
+    3300054: Stairs.001
+    3300056: Stairs.003
+    4300000: RoofStairs
+    4300002: BuildingRoofRounfings
+    4300004: Pavement1.001
+    4300006: NeonWineGlass
+    4300008: Cube
+    4300010: BuildingRail
+    4300012: Pavement1
+    4300014: Plane
+    4300016: Building.NeonFlat.002
+    4300018: BuildingBalconyGlass
+    4300020: BuildingCircleGlass
+    4300022: NeonWoman.001
+    4300024: BuildingSideStripes
+    4300026: BuildingSideWindows
+    4300028: Building.002
+    4300030: BuildingWindowBig
+    4300032: BuildingWindowBigScreen
+    4300034: Building.NeonFlat.001
+    4300036: Building.NeonFlat
+    4300038: Building.001
+    4300040: Restricted Building
+    4300042: Restricted BuildingLamp
+    4300044: Lift
+    4300046: Stairs.003
+    4300048: Stairs.001
+    4300050: Stairs
+    4300052: Building
+    4300054: BuildingCircle
+    4300056: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
