@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 72eb57faf27d93f4a9b4625874a435fe
-timeCreated: 1513282620
+guid: cef8ceef11e0dff45a717093547c57f1
+timeCreated: 1515162454
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -12,17 +12,6 @@ ModelImporter:
     100008: Pots
     100010: PotsNeons
     100012: WallPillar
-    100014: WallPillar.001
-    100016: WallPillar.002
-    100018: WallPillar.003
-    100020: WallPillar.004
-    100022: WallPillar.006
-    100024: WallPillarNeon
-    100026: WallPillarNeon.001
-    100028: WallPillarNeon.002
-    100030: WallPillarNeon.003
-    100032: WallPillarNeon.004
-    100034: WallPillarNeon.005
     400000: //RootNode
     400002: Cylinder
     400004: Floor
@@ -30,101 +19,33 @@ ModelImporter:
     400008: Pots
     400010: PotsNeons
     400012: WallPillar
-    400014: WallPillar.001
-    400016: WallPillar.002
-    400018: WallPillar.003
-    400020: WallPillar.004
-    400022: WallPillar.006
-    400024: WallPillarNeon
-    400026: WallPillarNeon.001
-    400028: WallPillarNeon.002
-    400030: WallPillarNeon.003
-    400032: WallPillarNeon.004
-    400034: WallPillarNeon.005
+    2100000: SidePillar
+    2100002: SidePillarNeon
+    2100004: PotsNeons
+    2100006: RoofPots
+    2100008: Pillar
+    2100010: Building
     2300000: Cylinder
     2300002: Floor
     2300004: Pots
     2300006: PotsNeons
     2300008: WallPillar
-    2300010: WallPillar.001
-    2300012: WallPillar.002
-    2300014: WallPillar.003
-    2300016: WallPillar.004
-    2300018: WallPillar.006
-    2300020: WallPillarNeon
-    2300022: WallPillarNeon.001
-    2300024: WallPillarNeon.002
-    2300026: WallPillarNeon.003
-    2300028: WallPillarNeon.004
-    2300030: WallPillarNeon.005
     3300000: Cylinder
     3300002: Floor
     3300004: Pots
     3300006: PotsNeons
     3300008: WallPillar
-    3300010: WallPillar.001
-    3300012: WallPillar.002
-    3300014: WallPillar.003
-    3300016: WallPillar.004
-    3300018: WallPillar.006
-    3300020: WallPillarNeon
-    3300022: WallPillarNeon.001
-    3300024: WallPillarNeon.002
-    3300026: WallPillarNeon.003
-    3300028: WallPillarNeon.004
-    3300030: WallPillarNeon.005
-    4300000: WallPillar.006
-    4300002: WallPillarNeon.005
-    4300004: WallPillar.004
-    4300006: WallPillarNeon.004
-    4300008: WallPillar.003
-    4300010: WallPillarNeon.003
-    4300012: WallPillar.002
-    4300014: WallPillarNeon.002
-    4300016: WallPillar.001
-    4300018: WallPillarNeon.001
-    4300020: PotsNeons
-    4300022: Pots
-    4300024: WallPillar
-    4300026: WallPillarNeon
-    4300028: Cylinder
-    4300030: Floor
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Building
-    second: {fileID: 2100000, guid: ca3549bb948ae9248a0138f677db9f36, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: 1b1c7c0dab8862c42870ab306adeb76a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Pillar
-    second: {fileID: 2100000, guid: 485a8f2773b0e0743aab273110a5fc66, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: RoofPots
-    second: {fileID: 2100000, guid: ec24a9be0a7bd764ea5a3e228ef407c2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: SidePillar
-    second: {fileID: 2100000, guid: b11db408b9298624ca3b4a19708765ad, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: SidePillarNeon
-    second: {fileID: 2100000, guid: 1e39487b37a842247ad88072c54c77b2, type: 2}
+    4300000: WallPillar
+    4300002: PotsNeons
+    4300004: Pots
+    4300006: Cylinder
+    4300008: Floor
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -162,6 +83,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

@@ -387,9 +387,11 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\Scripts\CarMovement.cs" />
+    <Compile Include="Assets\Scripts\CharacterMovement.cs" />
     <Compile Include="Assets\Scripts\FPS.cs" />
     <Compile Include="Assets\Scripts\LookCamera.cs" />
     <Compile Include="Assets\Scripts\SpaceshipMovement.cs" />
+    <Compile Include="Assets\Scripts\Thunders.cs" />
     <Compile Include="Assets\SpaceSkies Free\Demo\Scripts\SkyboxChanger.cs" />
     <Compile Include="Assets\VolumeFog\AreaLight\Scripts\AreaLight.cs" />
     <Compile Include="Assets\VolumeFog\AreaLight\Scripts\AreaLight.Direct.cs" />
